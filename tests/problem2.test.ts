@@ -1,4 +1,3 @@
-import { notInArray } from "../problem1";
 import { findCouple } from "../problem2";
 
 describe("Problem two", () => {
